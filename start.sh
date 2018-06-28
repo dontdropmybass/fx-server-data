@@ -1,0 +1,1 @@
+bash /home/fx-server/run.sh +exec server.cfg
